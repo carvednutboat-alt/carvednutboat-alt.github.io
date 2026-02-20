@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 核舟记
+subtitle: 'carvednutboat'
 description: ''
 keywords:
-author: John Doe
-language: en
+author: carvednutboat-alt
+language: en & zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://carvednutboat-alt.github.io
-root: /blog/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
